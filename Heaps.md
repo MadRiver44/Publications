@@ -1,4 +1,4 @@
-# Binomial Heaps a.k.a Priorty Queues
+# Binomial Heaps a.k.a Priorty Queues  -- Draft(todo -add graphics)
 ## A different form of Binary Tree
 
 From our earlier disscuion of Binary Search Trees, we learned that storing our data in an ordered manner priovides efficient methods of search, insertion and removal of nodes. 

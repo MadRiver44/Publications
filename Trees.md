@@ -1,4 +1,4 @@
-# Data Structures 101: Binary Search Tree
+# Data Structures 101: Binary Search Tree  -- Draft(todo -add graphics)
 ## Combining the efficiency of insertion of a Linked List and the fast search of an ordered array
 
 ### What is a Binary Search Tree?

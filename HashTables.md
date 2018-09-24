@@ -1,4 +1,4 @@
-# Data Structures 101: HashTables
+# Data Structures 101: HashTables -- Draft(todo -add graphics)
 ## The weapon of choice for constant time Get, Set, and Delete operations
 
 Before we start, let's separate the word HashTable into two parts, the hash and the table.
